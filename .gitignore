@@ -1,0 +1,5 @@
+docker-compose.yaml
+node_modules
+Backend/.env
+Backend/config.js
+Backend/config/config.json
