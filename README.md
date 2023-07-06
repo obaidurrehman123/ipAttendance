@@ -29,7 +29,7 @@ This project is a Node.js-based API that provides various functionalities for us
 ```
 ## Installation
 
-**1.Clone the repository:** git clone https://github.com/obaidurrehman123/Auth_And_Autherization.git
+**1.Clone the repository:** git clone https://github.com/obaidurrehman123/ipAttendance.git
 
 **2.Install the dependencies:** npm install
 
